@@ -1,0 +1,160 @@
+---
+marp: true
+class: invert
+size: 16:9
+paginate: true
+
+---
+# 1.1 An Invisible World - What Our Ancestors Knew
+
+
+
+
+
+###### Summer '24
+Justin N. Howard
+Campbellsville University
+
+
+---
+
+# Main Points
+
+- Beacuse it is hard to see without microscopes, the complex unseen world of microorganisms goes unoticed.
+  
+- Many historical figures with varying backgrounds (some that did not attend college) contirbuted to what we know today.
+  
+- Some tools in the microbiology lab are basic and common just like kitchen tools. 
+
+---
+
+- Learning Objectives:
+
+  - Describe ancestral improvements in food with invisible microbes.
+  
+  - Explain ancient causes of sickness and disease before microscopes.
+  
+  - Identify key events in the birth of microbiology.
+
+---
+
+## Clinical Focus - Cora's Meningitis Case
+
+- Background: Cora, a 41-year-old lawyer, shows symptoms indicating possible meningitis.
+  
+- Diagnostic steps: Lumbar puncture for CSF analysis, including visual examination, microscopic analysis, and Gram staining.
+  
+- Treatment: Antibiotics, pending culture results.
+
+--- 
+
+![Cora's Meningitis Diagnostic Procedure bg 90%](unit1images/Fig1.2.jpg)
+
+---
+
+## Fermented Foods and Beverages
+
+- Historical evidence of fermentation since 7000 BC.
+
+- Importance of microbial fermentation in producing beer, wine, bread, yogurt, cheese, and pickled vegetables.
+
+![Microscopic View of Yeast in Fermentation bg 90% right](unit1images/Fig1.3.jpg)
+
+---
+![Microscopic View of Yeast in Fermentation bg 50% center](unit1images/Fig1.3a.jpg)
+
+---
+![Microscopic View of Yeast in Fermentation bg 100%t](unit1images/Fig1.3b.jpg)
+
+---
+
+## The Iceman Treateth - Prehistoric Disease Understanding
+
+- Insights from Ötzi the Iceman: Prehistoric disease treatment methods(?)
+
+---
+"At around 48 years of age, Ötzi was older than the average of his contemporaries...fairly old (for his time). And not healthy."
+
+"..Suffered from tooth decay, periodontal disease and borreliosis. 
+
+He also had gastritis and was infected with the _helicobacter_ stomach bacterium."
+
+
+![Historical Medical Pioneers bg left 90% ](unit1images/Figa.jpg)
+
+---
+
+- Imagine dealing with Lyme disease over 5,000 years ago. 
+
+- The evidence found with Ötzi gives us insights into how ancient people might have approached such health challenges.
+
+- Early practices like quarantining and hygiene.
+
+---
+### Hippocrates(4960-370 BC)
+Often called the father of Western medicine, shifted the paradigm from supernatural explanations of disease to natural causes. This was a monumental step forward in medical thinking.
+
+![Historical Medical Pioneers bg center right 60% ](unit1images/Fig1.5.jpg)
+
+---
+
+### Thucydides (460-394 BC)
+
+![Historical Medical Pioneers bg center right 60% ](unit1images/Fig1.5a.jpg)
+He survived the  Athenian plague. His recognition of immunity in survivors was an early, yet significant, understanding of how our bodies fight off disease.
+
+- He noted survivors of thes disease did not get sick again.
+
+--- 
+### Marcus Terentius Varro (166-27 BC)
+
+
+- Varro's hypothesis about invisible creatures causing diseases shows that the concept of microorganisms was being considered long before they were actually seen.
+
+
+---
+
+## Check Your Understanding
+
+## 1. Name two foods historically produced with microbial aid.
+   
+---
+
+## The Birth of Microbiology
+
+- Microscopy's role in confirming the existence of microbes.
+  
+- Contributions of Antonie van Leeuwenhoek, Louis Pasteur, and Robert Koch.
+
+---
+![Historical figures bg contain left](unit1images/leeuwenhoek.jpg)
+
+## Antonie van Leeuwenhoek (1632-1723)
+Discovery of microorganisms with his powerful microscope.
+- Recognition of microbes' existence and the start of a new scientific era.
+- Progression from the hypothesis of "invisible forces" to concrete microscopic evidence.
+- Advances in understanding microbial fermentation, pasteurization, and disease causation.
+
+---
+200 years later, the 'Golden Age' of Microbiology began (1857-1914)
+## Louis Pasteur(1822-1895)
+![Historical Medical Pioneers bg right scale](unit1images/Fig1.6.jpg)
+Pasteur's work is a cornerstone of microbiology. He not only developed pasteurization but also made groundbreaking strides in understanding microbial fermentation and developing vaccines.
+  
+---
+
+## Robert Koch (1843-1910)
+
+![Historical Medical Pioneers bg left](unit1images/Fig1.6a.jpg)
+
+Koch's work in identifying the specific bacteria causing diseases like anthrax and cholera fundamentally changed our approach to diagnosing and treating infections.
+
+---
+
+| Koch's Postualtes|
+| --------  |
+| 1. The suspected pathogen must be found in every case of the disease and be found in healthy individuals|
+| 2. The suspected pathogen can be isolated and grown in pure culture |
+| 3. A healthy test subject infected with the suspected pathogen must develop the same signs and symptoms of disease in #1 |
+| 4. The pathogen must be re-isolated from the new host and must be identical to the pathogen from # 2|
+
