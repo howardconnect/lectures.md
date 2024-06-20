@@ -1,0 +1,93 @@
+---
+marp: true
+theme: default
+---
+
+
+
+Question 1
+### What is the difference between natural, semisynthetic, and synthetic antimicrobial drugs? Give one example of each.
+
+
+
+Answer to Question 1
+### Natural antibiotics are derived directly from natural sources (e.g., Penicillin from Penicillium mold). Semisynthetic antibiotics are chemically altered natural substances to enhance efficacy (e.g., Amoxicillin from penicillin). Synthetic antibiotics are completely designed in a laboratory (e.g., Ciprofloxacin).
+
+---
+
+Question 2
+### Focusing on superinfections, explain why the use of broad-spectrum antibiotics can be potentially troublesome for those that are treated with them.
+
+
+Answer to Question 2
+### Broad-spectrum antibiotics can kill or inhibit both harmful and beneficial bacteria, leading to superinfections where resistant bacteria or fungi may overgrow and cause new infections, as the normal microbial balance is disrupted.
+
+---
+
+Question 3
+### Define each term and give a brief explanation as to why they are important considerations when treating a patient with antibiotics:
+a. Dosage
+b. Route
+
+--- 
+
+Answer to Question 3
+### Dosage: Amount of a drug administered; crucial to ensure effectiveness while avoiding toxicity.
+### Route: Path by which a drug is taken into the body; important for ensuring the drug is delivered effectively to the site of infection.
+
+---
+
+Question 4
+### How do antibiotics like penicillin and cephalosporins kill bacteria?
+
+
+
+Answer to Question 4
+### Penicillin and cephalosporins kill bacteria by inhibiting the synthesis of the bacterial cell wall, causing the bacteria to burst due to osmotic pressure.
+
+---
+
+## Slide 9: Question 5
+### Explain how aminoglycosides, such as streptomycin, work against bacteria.
+
+## Slide 10: Answer to Question 5
+### Aminoglycosides, such as streptomycin, bind to the 30S subunit of bacterial ribosomes, causing misreading of mRNA, which inhibits protein synthesis and leads to bacterial death.
+
+---
+
+## Slide 11: Question 6
+### How do antibiotics targeting the ribosome work to inhibit bacterial growth? Name one class of such antibiotics.
+
+## Slide 12: Answer to Question 6
+### Antibiotics targeting the ribosome inhibit bacterial protein synthesis. Macrolides, for instance, bind to the 50S subunit, preventing peptide chain elongation.
+
+## Slide 13: Question 7
+### What role do β-lactamases play in antibiotic resistance?
+
+## Slide 14: Answer to Question 7
+### β-lactamases are enzymes produced by bacteria that break down the β-lactam ring in antibiotics like penicillin, rendering them ineffective and conferring resistance.
+
+## Slide 15: Question 8
+### Why is it a problem when bacteria produce efflux pumps?
+
+## Slide 16: Answer to Question 8
+### Efflux pumps can remove antibiotics from bacterial cells before they can act, lowering drug concentration within cells and leading to ineffective treatment.
+
+## Slide 17: Question 9
+### Describe how fluoroquinolones inhibit bacterial growth. What is their target within the bacterial cell?
+---
+## Answer to Question 9
+### Fluoroquinolones inhibit bacterial growth by targeting DNA gyrase or topoisomerase IV, enzymes crucial for DNA replication and cell division in bacteria.
+---
+## Question 10
+### How do antifungal drugs target and kills pathogenic fungus, but keep from destroying the host cells of the sick patient?
+---
+## Answer to Question 10
+### Antifungal drugs target components unique to fungal cells, such as ergosterol, a major component of the fungal cell membrane, without affecting similar components in human cells.
+---
+## Question 11
+### What is MRSA and why is it significant in the context of antibiotic resistance?
+---
+## Answer to Question 11
+### MRSA (Methicillin-resistant Staphylococcus aureus) is a type of bacteria resistant to several common antibiotics, making infections difficult to treat and significant in public health due to its potential to cause severe and invasive diseases.
+```
