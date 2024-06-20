@@ -1,0 +1,366 @@
+---
+
+marp: true
+class: invert
+paginate: true
+
+
+---
+
+# Chapter 5: The Eukaryotes of Microbiology 🦠
+
+
+###### Summer '24
+Justin N. Howard
+Campbellsville University
+
+---
+
+
+![graphic of the main kingdom taxonomy bg right 90%](<Ch.5 Eukaryotes Lecture/living-organism.jpg>)
+
+Protist · Animalia · Fungus
+
+---
+![bg right](<Ch.5 Eukaryotes Lecture/protists.jpg>)
+# Difference Between Protists and Protozoa
+
+### **Protists** are an extraordinarily diverse group, including species with various life cycles, morphological specializations, and nutritional needs.
+
+---
+
+# Protists
+  - Can be unicellular or multicellular.
+  
+  - Includes organisms with various nutritional method (photosynthetic, heterotrophic).
+
+  - Not a single taxonomic group, but a category for eukaryotes **that are not plants, animals, or fungi.**
+
+
+---
+
+### **Protozoa are a subset of protists**, primarily characterized as unicellular, heterotrophic, (non-photosynthetic), motile organisms that are always unicellular.
+
+ 
+  - Often motile, using structures like cilia, flagella, or pseudopodia.
+  - Typically found in aquatic or moist environments.
+
+---
+
+
+# Understanding these differences helps clarify their roles in ecosystems and their biological significance.
+
+
+---
+
+
+## Medically Significant Protozoa
+| Scientific Name        | Morphology | Disease Caused            | System Affected |
+|------------------------|------------|---------------------------|-----------------|
+| *Plasmodium falciparum*| Sporozoan  | Malaria                   | Blood           |
+| *Giardia lamblia*      | Flagellate | Giardiasis                | GI System       |
+| *Entamoeba histolytica*| Amoeba     | Amoebic dysentery         | GI System       |
+| *Trichomonas vaginalis*| Flagellate | Trichomoniasis            | STI             |
+
+---
+
+## Medically Significant Protozoa
+| Scientific Name        | Morphology | Disease Caused            | System Affected |
+|------------------------|------------|---------------------------|-----------------|
+| *Trypanosoma brucei*   | Flagellate | African sleeping sickness | CNS             |
+| *Trypanosoma cruzi*    | Flagellate | Chagas disease            | Heart/Digestive |
+| *Naegleria fowleri*    | Amoeba     | Primary amoebic meningoencephalitis | CNS |
+
+---
+
+## Medically Significant Protozoa
+
+- **Malaria**: Transmitted by mosquitoes, causes fever, chills, and can be fatal.
+  
+- **Giardiasis**: Waterborne illness causing severe diarrhea.
+  
+- **Amoebic dysentery**: Severe diarrhea with blood, transmitted through contaminated water.
+  
+- **Trichomoniasis**: Sexually transmitted infection causing vaginal discomfort and discharge.
+
+---
+
+
+## Medically Significant Protozoa 
+
+- **African sleeping sickness**: Transmitted by tsetse fly, affects the central nervous system.
+  
+- **Chagas disease**: Transmitted by "kissing bugs", can cause heart and digestive system issues.
+  
+- **Leishmaniasis**: Transmitted by sandflies, affects skin and internal organs.
+
+---
+
+
+## Morphology of Protists
+
+- **Plasma Membrane**: All protozoans have a plasma membrane or plasmalemma.
+
+- **Pellicle**: Some protozoans have bands of protein inside the membrane, adding rigidity.
+
+- **Cytoplasm**: Protozoans have distinct layers of cytoplasm, contributing to cell shape.
+
+
+---
+
+## Morphology of Protists
+
+- **Locomotion Structures**:
+  - **Flagella**: Whip-like structures for propulsion.
+  - **Cilia**: Hair-like structures for movement and feeding.
+  - **Pseudopodia**: Cytoplasmic extensions for attachment and movement.
+
+--- 
+
+![Protists locomotion bg fit](<Ch.5 Eukaryotes Lecture/5.5.jpg>)
+
+---
+
+
+## Morphology of Protists
+
+| Scientific Name        | Morphology | Locomotion Structure |
+|------------------------|------------|----------------------|
+| *Plasmodium falciparum*| Sporozoan  | None (non-motile)    |
+| *Giardia lamblia*      | Flagellate | Flagella             | Giardiasis                |
+| *Entamoeba histolytica*| Amoeba     | Pseudopodia          |
+| *Trichomonas vaginalis*| Flagellate | Flagella             |
+| *Trypanosoma brucei*   | Flagellate | Flagella             | 
+| *Trypanosoma cruzi*    | Flagellate | Flagella             |
+| *Naegleria fowleri*    | Amoeba     | Pseudopodia          |
+
+
+---
+
+
+## Life Cycle: Trophozoite and Cyst Stages
+
+- **Trophozoite**: The feeding and growth stage of protozoa.
+  - Feeds on small particulate food sources like bacteria.
+  
+- **Cyst**: A cell with a protective wall.
+  - Formed through **encystment** when environmental conditions are harsh.
+  
+  - **Excystment** occurs when conditions become favorable again.
+
+---
+
+# Section 5.2 Parasitic Helminths
+### **Helminths** are large, multicellular organisms, also known as parasitic worms classified within the **animal kingdom.** These organisms are visible to the naked eye in their adult stages, but microscopic in various stages of the reproductive cycle.
+
+![alt text bg right](<Ch.5 Eukaryotes Lecture/animal.jpg>)
+
+---
+
+
+
+
+# Helminths are divided into two major groups:
+  
+  - ## **Roundworms (Nematoda)**
+  
+  - ## **Flatworms (Platyhelminthes)**
+
+---
+
+## Characteristics of Helminths
+
+- Helminths have complex life cycles, often involving multiple hosts.
+- They have specialized organ systems, including digestive, excretory, nervous, and reproductive systems.
+- Helminths are often highly adapted to their parasitic lifestyle.
+
+---
+## Major Groups of Helminths
+
+### Roundworms (Nematoda)
+
+- Unsegmented worms with a complete digestive system.
+- Examples include:
+  - *Ascaris lumbricoides*: Causes ascariasis, affects the intestines.
+  - *Enterobius vermicularis*: Causes pinworm infection, affects the intestines.
+  - *Necator americanus*: Causes hookworm infection, affects the intestines and blood.
+  - *Dracunculus medinensis*: Causes Guinea worm disease, affects the skin and subcutaneous tissues.
+
+---
+
+![bg left fit](<Ch.5 Eukaryotes Lecture/5.19 pinwomr.jpg>)
+Figure 5.19 *Enterobius vermicularis* (Pinworm)
+
+---
+## Major Groups of Helminths
+
+### Flatworms (Platyhelminthes)
+
+- Segmented or unsegmented worms, often with complex life cycles.
+- Divided into two classes:
+  - **Flukes (Trematoda)**: Non-segmented flatworms.
+    - *Schistosoma spp.*: Causes schistosomiasis, affects the blood and liver.
+  - **Tapeworms (Cestoda)**: Segmented flatworms.
+    - *Taenia solium*: Causes taeniasis, affects the intestines.
+
+---
+
+![bg fit](<Ch.5 Eukaryotes Lecture/5.20 flatworms.jpg>)
+
+---
+
+## Medically Significant Helminths
+
+| Scientific Name            | Group         | Disease Caused         | System Affected     |
+|----------------------------|---------------|------------------------|---------------------|
+| *Ascaris lumbricoides*     | Roundworm     | Ascariasis             | Intestines          |
+| *Enterobius vermicularis*  | Roundworm     | Pinworm infection      | Intestines          |
+| *Necator americanus*       | Roundworm     | Hookworm infection     | Intestines, Blood   |
+| *Dracunculus medinensis*   | Roundworm     | Guinea worm disease    | Skin, Subcutaneous  |
+| *Schistosoma spp.*         | Fluke         | Schistosomiasis        | Blood, Liver        |
+| *Taenia solium*            | Tapeworm      | Taeniasis              | Intestines          |
+
+---
+
+## Life Cycles of Helminths
+
+### Roundworms
+
+- **Ascaris lumbricoides**: Eggs ingested, larvae hatch in intestines, migrate to lungs, then return to intestines to mature.
+  
+- **Enterobius vermicularis**: Eggs ingested, larvae hatch in intestines, adults live in the colon, females lay eggs around the anus.
+  
+- **Necator americanus**: Larvae penetrate skin, travel to lungs, then to intestines to mature.
+
+- **Dracunculus medinensis**: Larvae ingested through contaminated water, mature in body tissues, females migrate to skin to release larvae.
+
+---
+
+## Flatworms
+
+- **Schistosoma spp.**: Larvae (cercariae) penetrate skin, mature in blood vessels, eggs excreted in feces or urine, hatch in water, infect snails, and repeat the cycle.
+  
+- **Taenia solium**: Eggs ingested through contaminated food, larvae hatch and form cysts in muscles, mature tapeworms develop in the intestines.
+
+---
+
+## Morphology of Helminths
+
+- ### **Roundworms (Nematoda)**:
+  - Cylindrical, elongated bodies.
+  - Complete digestive system with a distinct mouth and anus.
+  - Separate sexes (male and female).
+
+- ### **Flatworms (Platyhelminthes)**:
+  - Flattened bodies.
+  - Simple digestive system, often with a single opening.
+  - Hermaphroditic (both male and female reproductive organs in one individual).
+
+---
+
+## Summary
+
+- Helminths are parasitic worms classified into roundworms and flatworms.
+  
+- They have complex life cycles and can affect various body systems.
+  
+- Understanding their morphology and life cycles is crucial for diagnosing and treating infections.
+
+---
+![bg right](<Ch.5 Eukaryotes Lecture/fungus.jpg>)
+# Section 5.3 Fungus
+
+**Fungi** are a diverse group of organisms that are heterotrophic and typically **saprozoic**, playing crucial roles in decomposition, nutrient cycling, and as symbionts.
+
+Fungi include both microscopic (yeasts and molds) and macroscopic (mushrooms) species.
+
+---
+
+## Characteristics of Fungi
+
+- Fungi have unique cell walls containing **chitin.**
+  
+- Their cell membranes contain ergosterols, which are targets for antifungal drugs.
+  
+- Fungi reproduce both sexually and asexually through spores.
+
+---
+
+## Major Groups of Fungi - Molds
+
+- Multicellular fungal bodies composed of filaments called **hyphae**.
+- Hyphae form a network called a mycelium.
+- Examples:
+  - *Rhizopus stolonifer*: Common bread mold.
+
+---
+
+## Major Groups of Fungi - Yeasts
+
+- Unicellular fungi.
+- Reproduce asexually by budding.
+- Examples:
+  - *Saccharomyces cerevisiae*: Baker's yeast.
+  - *Candida albicans*: Causes candidiasis.
+
+---
+
+## Dimorphic Fungi
+
+## Some fungi can exist in both mold and yeast forms depending on environmental conditions.
+
+Examples:
+- *Histoplasma capsulatum*: Causes histoplasmosis.
+  
+- *Candida albicans*: Causes vaginal yeast infections, oral thrush, and candidiasis of the skin.
+
+---
+
+## Medically Significant Fungi
+
+| Scientific Name              | Disease Caused         | System Affected     |
+|------------------------------|------------------------|---------------------|
+| *Candida albicans*           | Candidiasis            | Skin, Oral, Genital |
+| *Histoplasma capsulatum*     | Histoplasmosis         | Respiratory System  |
+| *Cryptococcus neoformans*    | Cryptococcosis         | CNS                 |
+| *Aspergillus fumigatus*      | Aspergillosis          | Respiratory System  |
+| *Trichophyton spp.*          | Athlete's foot, ringworm| Skin, Nails         |
+
+---
+
+## Life Cycles and Reproduction of Fungi - **Asexual Reproduction**
+
+## Fungi reproduce asexually by:
+  - **Budding**: Common in yeasts like *Saccharomyces cerevisiae*.
+  - **Spore Formation**: Conidia (asexual spores) are produced by molds like *Aspergillus*.
+
+---
+
+## Life Cycles and Reproduction of Fungi - **Sexual Reproduction**
+
+## Involves the formation of specialized sexual structures.
+
+Examples:
+- **Ascospores** in *Ascomycota* (e.g., *Saccharomyces*)
+- **Basidiospores** in *Basidiomycota* (e.g., mushrooms).
+
+---
+
+## Morphology of Fungi
+
+- **Hyphae**: Filamentous structures that make up the mycelium of molds.
+  - **Septate Hyphae**: Have walls between cells.
+  - **Coenocytic Hyphae**: Lack walls between cells, forming a continuous cytoplasmic mass.
+
+- **Yeasts**: Unicellular fungi that reproduce by budding.
+
+- **Dimorphic Fungi**: Can exist as both molds and yeasts depending on environmental conditions.
+
+---
+
+## Summary
+
+- Fungi are a diverse group of organisms, important in various ecological roles and as pathogens.
+- They include molds, yeasts, and dimorphic fungi with distinct characteristics.
+- Understanding their morphology, life cycles, and reproductive strategies is crucial for diagnosing and treating fungal infections.
+
