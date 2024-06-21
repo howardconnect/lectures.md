@@ -3,7 +3,11 @@ marp: true
 paginate: true
 size: 16:9
 class: 
-theme:
+theme: 
+course: BIO322
+title: Controlling Microbial Growth
+chapter: 13
+category: Lecture
 ---
 
 # Chapter 13 - Controlling Microbial Growth 
