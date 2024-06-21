@@ -40,11 +40,11 @@ Sunday:
    - Allow water to settle for about 30 minutes.
 
 6. Concentration:
-   - [x] Pipette off the top half of the water to concentrate tardigrades in the remaining water.
+-  Pipette off the top half of the water to concentrate tardigrades in the remaining water.
 
 ---
 
-7. Observation:
+1. Observation:
    - Use a microscope to find and extract tardigrades from the water.
    - Found after examining 3 prepared slides.
 

@@ -10,7 +10,7 @@ This polymer, unique to bacterial cells, comprises !many polysaccharide chains l
 
 ## Differences Between Gram-positive and Gram-negative Bacteria
 
-![[Medical Microbiology/images/Gram+Gram-.jpg]]
+
 
 The thickness and composition of the cell wall vary across bacterial species. **Gram-positive bacteria** are characterized by a thick layer of peptidoglycan, which absorbs the primary crystal violet stain during staining procedures, allowing these cells to be visualized under a microscope. In contrast, **Gram-negative bacteria** possess a thin layer of peptidoglycan and are usually surrounded by an additional layer of phospholipids. This structural difference means that Gram-negative bacteria do not retain the crystal violet stain but can be visualized with alternative staining methods.
 
