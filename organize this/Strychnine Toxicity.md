@@ -8,7 +8,6 @@ Subject:
 Reference: NCBI.com
 Categories: Lesson Snippet
 tags:
-  - APII
   - Neurotransmitters
 ---
 
@@ -19,7 +18,7 @@ Strychnine has been used for years as a medicinal remedy for a broad range of co
 
 ---
 
-> Follow [this link]([Strychnine Toxicity - StatPearls - NCBI Bookshelf (nih.gov)](https://www.ncbi.nlm.nih.gov/books/NBK459306/)) for the original document and references
+> Follow [this link]([Strychnine Toxicity - StatPearls - NCBI Bookshelf (nih.gov)](https://www.ncbi.nlm.nih.gov/books/NBK459306/) for the original document and references
 
 ---
 # Objective

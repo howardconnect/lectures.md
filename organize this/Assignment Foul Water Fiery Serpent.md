@@ -1,4 +1,5 @@
 ---
+marp: true 
 Title: Foul Water, Fiery Serpent
 Created: 2023-05-16
 Course: Medical Microbiology
@@ -12,7 +13,9 @@ tags:
   - helminths
   - parasites
   - assignment
+  
 ---
+
 # Assignment: Foul Water, Fiery Serpent
 
 ## Introduction
